@@ -1,2 +1,2 @@
 # GEOG
-Sample Repo 
+Sample Repo for intro to R class
